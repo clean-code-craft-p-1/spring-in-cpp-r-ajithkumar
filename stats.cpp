@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "stats.h"
 #include <limits.h>
 #include <algorithm>
